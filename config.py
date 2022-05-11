@@ -1,0 +1,6 @@
+TGTOKEN = ''
+API_KU = ''
+API_KU_SCR = ''
+API_PS = ''
+API_KEY = ''
+API_SECRET = ''
